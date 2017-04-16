@@ -15,3 +15,8 @@ C:\Users\Plouffe\Documents\Visual Studio 2017\Projects\Snipgur\Snipgur\Snipgur\o
 C:\Users\Plouffe\Documents\Visual Studio 2017\Projects\Snipgur\Snipgur\Snipgur\obj\Debug\Snipgur.csproj.GenerateResource.Cache
 C:\Users\Plouffe\Documents\Visual Studio 2017\Projects\Snipgur\Snipgur\Snipgur\obj\Debug\Snipgur.exe
 C:\Users\Plouffe\Documents\Visual Studio 2017\Projects\Snipgur\Snipgur\Snipgur\obj\Debug\Snipgur.pdb
+C:\Users\Plouffe\Documents\Visual Studio 2017\Projects\Snipgur\Snipgur\Snipgur\bin\Debug\MainForm.resx
+C:\Users\Plouffe\Documents\Visual Studio 2017\Projects\Snipgur\Snipgur\Snipgur\bin\Debug\MainForm.cs
+C:\Users\Plouffe\Documents\Visual Studio 2017\Projects\Snipgur\Snipgur\Snipgur\bin\Debug\MainForm.Designer.cs
+C:\Users\Plouffe\Documents\Visual Studio 2017\Projects\Snipgur\Snipgur\Snipgur\bin\Debug\webpages\login.html
+C:\Users\Plouffe\Documents\Visual Studio 2017\Projects\Snipgur\Snipgur\Snipgur\bin\Debug\webpages\logincss.css
