@@ -6,3 +6,12 @@ C:\Users\Steven-PC\Desktop\Snipgur\Snipgur\obj\Debug\Snipgur.Properties.Resource
 C:\Users\Steven-PC\Desktop\Snipgur\Snipgur\obj\Debug\Snipgur.csproj.GenerateResource.Cache
 C:\Users\Steven-PC\Desktop\Snipgur\Snipgur\obj\Debug\Snipgur.exe
 C:\Users\Steven-PC\Desktop\Snipgur\Snipgur\obj\Debug\Snipgur.pdb
+C:\Users\Plouffe\Documents\Visual Studio 2017\Projects\Snipgur\Snipgur\Snipgur\bin\Debug\Snipgur.exe.config
+C:\Users\Plouffe\Documents\Visual Studio 2017\Projects\Snipgur\Snipgur\Snipgur\bin\Debug\Snipgur.exe
+C:\Users\Plouffe\Documents\Visual Studio 2017\Projects\Snipgur\Snipgur\Snipgur\bin\Debug\Snipgur.pdb
+C:\Users\Plouffe\Documents\Visual Studio 2017\Projects\Snipgur\Snipgur\Snipgur\obj\Debug\Snipgur.csprojResolveAssemblyReference.cache
+C:\Users\Plouffe\Documents\Visual Studio 2017\Projects\Snipgur\Snipgur\Snipgur\obj\Debug\Snipgur.MainForm.resources
+C:\Users\Plouffe\Documents\Visual Studio 2017\Projects\Snipgur\Snipgur\Snipgur\obj\Debug\Snipgur.Properties.Resources.resources
+C:\Users\Plouffe\Documents\Visual Studio 2017\Projects\Snipgur\Snipgur\Snipgur\obj\Debug\Snipgur.csproj.GenerateResource.Cache
+C:\Users\Plouffe\Documents\Visual Studio 2017\Projects\Snipgur\Snipgur\Snipgur\obj\Debug\Snipgur.exe
+C:\Users\Plouffe\Documents\Visual Studio 2017\Projects\Snipgur\Snipgur\Snipgur\obj\Debug\Snipgur.pdb
