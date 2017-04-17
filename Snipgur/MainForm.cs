@@ -20,7 +20,8 @@ namespace Snipgur
             InitializeComponent();
             string curDir = Directory.GetCurrentDirectory();
             this.webBrowser1.Url = new Uri(String.Format("file:///{0}/webpages/login.html", curDir));
-            
+          
+
         }
         //These variables control the mouse position
         int selectX;
